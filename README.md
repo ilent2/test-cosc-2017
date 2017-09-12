@@ -1,5 +1,5 @@
 
-Welcome to the template for COSC2500 in Cloud 9.
+Welcome to the template for the COSC2500 C assignment for Cloud 9.
 You will find the screen split into three main windows:
 
   - File viewer and text editor (this window)
